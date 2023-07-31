@@ -2,12 +2,12 @@ x=2
 y=4
 add=x+y
 print(add)
-a=6
-b=7
+a= 6
+b= 7
 sub=a-b
 print(sub)
-s=10
-g=20
+s= 10
+g= 20
 sum= s+g
 print(f"The sum is{sum}")
 diff= s-g
